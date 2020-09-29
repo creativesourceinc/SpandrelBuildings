@@ -1,2 +1,2 @@
 # Spandrel Buildings
-Building data file for the MTA Spandrel in Penn Station.
+Repository for the complete set of building data used for the MTA Spandrel in Penn Station.
